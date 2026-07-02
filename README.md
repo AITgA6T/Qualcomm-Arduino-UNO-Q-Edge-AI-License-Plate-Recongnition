@@ -19,7 +19,6 @@
 The camera captures video streams and processes the image data on the Arduino UNO Q.  
 YOLO26 is used for license plate detection, and LPRNet is used for character recognition.  
 The Arduino UNO Q also acts as a web server, providing a web interface to display recognition results such as license plate numbers in real time.
-
 All processing takes place on the edge device, ensuring better privacy and data protection
 
 <img src="assets/media/image1.png" style="width:5.76806in;height:2.76319in" />

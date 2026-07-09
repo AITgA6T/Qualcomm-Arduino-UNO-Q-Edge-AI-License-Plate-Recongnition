@@ -8,7 +8,7 @@
 
 ## Performance Metrics
 
-- **AI Model**: YOLO26 LPRNet
+- **AI Model**: YOLO26、LPRNet
   
 ## Hardware
 

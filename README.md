@@ -25,7 +25,7 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 ### Demo:
 
-<video src="https://github.com/AITgA6T/Qualcomm-Arduino-UNO-Q-Edge-AI-License-Plate-Recongnition/raw/main/assets/media/demo.mp4" controls muted loop width="640"></video>
+<img src="assets/media/demo.gif" width="640" alt="License Plate Recognition Demo" />
 
 
 

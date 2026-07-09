@@ -6,6 +6,20 @@
 
 2.  UNO Q form factor and expandability: Maintaining the classic UNO pin layout while supporting existing shields for easy integration with current hardware
 
+## Performance Metrics
+
+- **AI Model**: YOLO26 LPRNet
+  
+## Hardware
+
+- **Platform**:  [Arduino UNO Q]([https://www.qualcomm.com/developer/hardware/rb3-gen-2-development-kit](https://www.arduino.cc/product-uno-q))
+  
+## Software & Toolkit
+
+- **System:** Linux Debian
+
+## Background & Solution
+
 ### Motivation:
 
 - License plate recognition system often rely on centralized processing, causing latency. Edge computing enables real-time, on-site decisions, improving efficiency and reliability

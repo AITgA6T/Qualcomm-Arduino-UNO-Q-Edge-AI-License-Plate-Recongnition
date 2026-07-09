@@ -24,7 +24,8 @@ All processing takes place on the edge device, ensuring better privacy and data 
 <img src="assets/media/image1.png" style="width:5.76806in;height:2.76319in" />
 
 ### Demo:
-https://github.com/AITgA6T/Qualcomm-Arduino-UNO-Q-Edge-AI-License-Plate-Recongnition/raw/main/assets/media/demo.mp4
+
+<video src="https://github.com/AITgA6T/Qualcomm-Arduino-UNO-Q-Edge-AI-License-Plate-Recongnition/raw/main/assets/media/demo.mp4" controls muted loop width="640"></video>
 
 
 

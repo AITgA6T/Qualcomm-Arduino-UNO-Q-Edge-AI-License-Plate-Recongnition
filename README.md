@@ -25,7 +25,7 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 ### Demo:
 
-<img src="assets/media/demo-lpr.gif" width="640" alt="License Plate Recognition Demo" />
+<img src="assets/media/demo-lpr-full.gif" width="640" alt="License Plate Recognition Demo" />
 
 
 

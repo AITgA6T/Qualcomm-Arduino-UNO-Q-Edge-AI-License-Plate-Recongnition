@@ -26,7 +26,7 @@ All processing takes place on the edge device, ensuring better privacy and data 
 ### Demo:
 
 <img src="assets/media/demo.gif" width="720" alt="Edge-AI-License-Plate-Recongnition Demo" />
-
+<img src="assets/media/image1.png" style="width:5.76806in;height:2.76319in" />
 
 
 

@@ -12,7 +12,7 @@
   
 ## Hardware
 
-- **Platform**:  [Arduino UNO Q]([https://www.qualcomm.com/developer/hardware/rb3-gen-2-development-kit](https://www.arduino.cc/product-uno-q)
+- **Platform**:  [Arduino UNO Q](https://www.arduino.cc/product-uno-q)
   
 ## Software & Toolkit
 

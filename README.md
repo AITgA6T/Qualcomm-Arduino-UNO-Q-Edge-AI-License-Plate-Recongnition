@@ -25,8 +25,7 @@ All processing takes place on the edge device, ensuring better privacy and data 
 
 ### Demo:
 
-<img src="assets/media/demo.gif" width="720" alt="RB3 Gen2 Smart Vehicle Demo" />
-<img src="assets/media/demo.gif" width="720" alt="RB3 Gen2 Smart Vehicle Demo" />
+<img src="assets/media/demo.gif" width="720" alt="Edge-AI-License-Plate-Recongnition Demo" />
 
 
 
